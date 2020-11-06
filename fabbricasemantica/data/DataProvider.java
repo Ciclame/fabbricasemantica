@@ -10,7 +10,7 @@ public interface DataProvider<T>
 {
 	
 	/**
-	 * Restituisce un oggetto di tipo T per il Task passato in input.
+	 * Restituisce un oggetto di tipo T per il Task passato in input
 	 * @param  task  task passato in input
 	 * @return  oggetto di tipo T
 	 */
